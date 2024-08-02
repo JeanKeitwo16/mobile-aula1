@@ -3,4 +3,7 @@ public class teste{
         System.out.println("LMAO!");
         System.out.println("Ola mundo.");
     }
+    public void test(){
+        System.out.println("lol");
+    }
 }
